@@ -1,4 +1,4 @@
-# Processador de Vídeos com FFmpeg
+# Processador de Vídeos com FFmpeg para inserção de imagens PNG
 
 Este script Python automatiza o processo de sobreposição de uma imagem estática no início de múltiplos vídeos usando o FFmpeg. Ele foi projetado para ser simples, eficiente e fácil de usar.
 
